@@ -35,6 +35,21 @@ I hope to make this as a project where anyone can suggest or even add a thumbnai
     <li>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2380009030">gm_quarantine</a>
     </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">gm_dvor</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2144464871">gm_renovation_fix</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3014091971">gm_volcanic</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1889839872">gm_flatgrass_island</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2819207400">gm_abyssalplain</a>
+    </li>
 </ul>
 <h1>Map removal</h1>
 <p>
