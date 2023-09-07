@@ -62,6 +62,9 @@ I hope to make this as a project where anyone can suggest or even add a thumbnai
     <li>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2812339290">ultimate_nextbotrun</a>
     </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2985579279">gm_vacant_industry</a>
+    </li>
 </ul>
 <h1>Map removal</h1>
 <p>
