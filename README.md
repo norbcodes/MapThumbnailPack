@@ -50,6 +50,18 @@ I hope to make this as a project where anyone can suggest or even add a thumbnai
     <li>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2819207400">gm_abyssalplain</a>
     </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104483504">gm_valley</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2821976723">gm_backrooms_noneuclidian</a>
+    </li>
+    <li>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2812339290">ultimate_nextbotrun</a>
+    </li>
 </ul>
 <h1>Map removal</h1>
 <p>
