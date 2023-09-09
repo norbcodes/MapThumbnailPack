@@ -1,8 +1,7 @@
 <h1>Map Thumbnail Pack addon</h1>
 <p>
-This is a small addon for Garry's Mod that I made, which adds map thumbnails to some maps that don't have them<br>
-So far there are only 9 thumbnails, which are all for maps that I have downloaded, though<br>
-I hope to make this as a project where anyone can suggest or even add a thumbnail for any map they wish!
+This is a small addon for Garry's Mod that I made, which adds map thumbnails to some maps that don't have them.<br>
+I hope to make this as a project where anyone can suggest or even add a thumbnail for any map they wish!<br>
 <b>Get the addon <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031841980">here</a>.</b>
 </p>
 <h1>Current map list</h1>
