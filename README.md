@@ -5,7 +5,7 @@ I hope to make this as a project where anyone can suggest or even add a thumbnai
 <b>Get the addon <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031841980">here</a>.</b>
 </p>
 <h1>Current map list</h1>
-<p>You can see the maplist <a href="">here</a>.</p>
+<p>You can see the maplist <a href="https://github.com/norbcodes/MapThumbnailPack/blob/master/maplist.md">here</a>.</p>
 <h1>Map removal</h1>
 <p>
 If you're a map maker and wish me to delete a thumbnail made for your map, you can make a new "Issue"<br>
