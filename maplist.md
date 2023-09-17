@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 25</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 26</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -9,6 +9,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2821976723">gm_backrooms_noneuclidian</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105982362">gm_bigcity</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2554693915">gm_bizarreflatgrass</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031751366">gm_c17construction</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3036192609">gm_catgrass</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1334575811">gm_construct_postapocalypse</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2981407778">gm_crystal_march</a></li>
