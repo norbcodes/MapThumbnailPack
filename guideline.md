@@ -3,7 +3,7 @@
 follow these guidelines:</p>
 <ol type=1>
     <li>
-    <b>Keep it as a 256x256 PNG image, thought you can make it smaller if you wish.</b>
+    <b>Maximum size should be a 1024x1024 PNG image, thought you can make it smaller if you wish.</b>
     </li>
     <li>
     <b>Make sure it is straight to the point. Make it highlight a land mark or a location within the map.</b>

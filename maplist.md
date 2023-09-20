@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 34</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 42</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -8,8 +8,12 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031590828">gm_backalley</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2821976723">gm_backrooms_noneuclidian</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105982362">gm_bigcity</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=732957261">gm_bigcity_sh</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2554693915">gm_bizarreflatgrass</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105985587">gm_buttes</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105985987">gm_buttes_night</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031751366">gm_c17construction</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3038412468">gm_cafe</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3036192609">gm_catgrass</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1334575811">gm_construct_postapocalypse</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2981407778">gm_crystal_march</a></li>
@@ -31,8 +35,12 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2985579279">gm_vacant_industry</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104483504">gm_valley</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3014091971">gm_volcanic</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105035530">hypnophobia</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105032438">insomnia</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3037763132">junkcity</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105034062">paranoia</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2792586275">rp_waystation</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=142020889">slender_forest</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2863414749">ttt_flatgrass_improveda2</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2812339290">ultimate_nextbotrun</a></li>
 </ul>
