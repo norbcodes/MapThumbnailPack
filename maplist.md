@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 42</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 43</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -39,6 +39,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105032438">insomnia</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3037763132">junkcity</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105034062">paranoia</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3035675486">rp_archon_pestilence</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2792586275">rp_waystation</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=142020889">slender_forest</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2863414749">ttt_flatgrass_improveda2</a></li>
