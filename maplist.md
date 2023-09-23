@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 43</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 44</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -35,6 +35,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2985579279">gm_vacant_industry</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104483504">gm_valley</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3014091971">gm_volcanic</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3039766054">gm_winter</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105035530">hypnophobia</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105032438">insomnia</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3037763132">junkcity</a></li>
