@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 45</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 46</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -28,6 +28,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104488112">gm_lair</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2380009030">gm_quarantine</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2144464871">gm_renovation_fix</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2127011651">gm_retro_highway_v1</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031715734">gm_sewagesystem</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2025924940">gm_simpleparking</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3035276959">gm_simpstruct</a></li>
