@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 46</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 47</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -26,6 +26,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2922299927">gm_infmap_arctic</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2925975871">gm_infmap_superflat</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104488112">gm_lair</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=157884508">gm_northwest_airfield</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2380009030">gm_quarantine</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2144464871">gm_renovation_fix</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2127011651">gm_retro_highway_v1</a></li>
