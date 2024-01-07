@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 54</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 57</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -8,6 +8,8 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=140173451">gm_akb2</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031590828">gm_backalley</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2821976723">gm_backrooms_noneuclidian</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1927883849">gm_base_escape</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1900676251">gm_base_inflitration</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105982362">gm_bigcity</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=732957261">gm_bigcity_sh</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2554693915">gm_bizarreflatgrass</a></li>
@@ -27,7 +29,6 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2922299927">gm_infmap_arctic</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2925975871">gm_infmap_superflat</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104488112">gm_lair</a></li>
-<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3044722711">gm_mazzdyzone</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=157884508">gm_northwest_airfield</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3004169796">gm_polskatown</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2380009030">gm_quarantine</a></li>
@@ -54,5 +55,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2792586275">rp_waystation</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=142020889">slender_forest</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2863414749">ttt_flatgrass_improveda2</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=159321088">ttt_minecraft_b5</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=389346280">ttt_minecraft_haven</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2812339290">ultimate_nextbotrun</a></li>
 </ul>
