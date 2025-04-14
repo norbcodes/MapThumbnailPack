@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 57</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 59</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3013339203">dvor</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2745687692">fazbear_fright_tjoche</a></li>
@@ -58,4 +58,6 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=159321088">ttt_minecraft_b5</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=389346280">ttt_minecraft_haven</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2812339290">ultimate_nextbotrun</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=323893414">zs_sludge</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3226021034">zs_sludge_fix</a></li>
 </ul>
