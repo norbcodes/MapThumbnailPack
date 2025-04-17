@@ -1,5 +1,5 @@
 <h1>Current maplist</h1>
-<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 62</i></b></p>
+<p>This list contains<br>all of the maps that have been given a thumbnail, from A-Z:<br><b><i>Current map count: 65</i></b></p>
 <ul>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3070907290">breakgmodmap_4</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3258952349">deathofgeomerty</a></li>
@@ -15,6 +15,7 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105982362">gm_bigcity</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=732957261">gm_bigcity_sh</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2554693915">gm_bizarreflatgrass</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3241916767">gm_bunkin</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105985587">gm_buttes</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=105985987">gm_buttes_night</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3031751366">gm_c17construction</a></li>
@@ -30,6 +31,8 @@
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=832905652">gm_forest</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2922299927">gm_infmap_arctic</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2925975871">gm_infmap_superflat</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3222874665">gm_kobastruct</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3222878899">gm_kobastructv2</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=104488112">gm_lair</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=157884508">gm_northwest_airfield</a></li>
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3004169796">gm_polskatown</a></li>
